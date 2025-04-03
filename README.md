@@ -1,1 +1,1 @@
-# college-graduation-predictor
+This project uses advanced analytics techniques to predict whether a student will graduate from college based on a range of demographic, academic, and socioeconomic factors. Multiple machine learning models were implemented and compared, including logistic regression, decision trees, and ensemble methods, to evaluate the most effective predictors of college completion. Developed as part of an Advanced Analytics Programming course.
